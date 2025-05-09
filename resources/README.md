@@ -4,4 +4,4 @@ This folder contains useful reference materials, cheat sheets, and notes I've co
 
 ## Microsoft Excel
 
-	[Microsoft Excel](https://github.com/JonathanMoreno14/Microsoft-Excel-Tips)
+[Excel Tips](https://github.com/JonathanMoreno14/Microsoft-Excel-Tips)
