@@ -5,3 +5,8 @@ This folder contains useful reference materials, cheat sheets, and notes I've co
 ## Microsoft Excel
 
 [Excel Tips](https://github.com/JonathanMoreno14/Microsoft-Excel-Tips)
+
+## SQL 
+
+[SQL-Basics](https://github.com/user-attachments/assets/fa2470b1-6fd0-456d-a2f0-4e214fa056da)
+
